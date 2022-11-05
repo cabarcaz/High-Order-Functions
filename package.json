@@ -1,0 +1,20 @@
+{
+  "name": "high-order-functions",
+  "version": "1.0.0",
+  "description": "Ejercicio 1 modulo Js Essentials",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cabarcaz/High-Order-Functions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cabarcaz/High-Order-Functions/issues"
+  },
+  "homepage": "https://github.com/cabarcaz/High-Order-Functions#readme"
+}
